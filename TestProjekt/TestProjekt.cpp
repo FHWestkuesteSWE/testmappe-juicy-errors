@@ -1,5 +1,8 @@
 // TestProjekt.cpp : Diese Datei enthält die Funktion "main". Hier beginnt und endet die Ausführung des Programms.
-//
+// West Coast University of Applied Sciences, Germany
+// Methoden zur Entwicklung zuverlässiger Softwaresysteme
+// Team Juicy Errors: Sören Kahl, Fabian Huber, Felix Passon
+// Created: March 30th, 2020
 
 #include <iostream>
 
@@ -9,6 +12,7 @@ int main()
 }
 
 // HubiFab was here! :->
+// Huhu HubiFab! This is Fel
 
 // Programm ausführen: STRG+F5 oder Menüeintrag "Debuggen" > "Starten ohne Debuggen starten"
 // Programm debuggen: F5 oder "Debuggen" > Menü "Debuggen starten"
