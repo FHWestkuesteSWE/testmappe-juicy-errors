@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello World!\n";
 }
 
+// HubiFab was here! :->
+
 // Programm ausführen: STRG+F5 oder Menüeintrag "Debuggen" > "Starten ohne Debuggen starten"
 // Programm debuggen: F5 oder "Debuggen" > Menü "Debuggen starten"
 
